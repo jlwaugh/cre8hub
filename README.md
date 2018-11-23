@@ -1,6 +1,6 @@
 # cre8hub
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that intentional coordination
+> A GitHub App built with [Probot](https://github.com/probot/probot) for intentional coordination
 
 ## Setup
 
@@ -14,10 +14,12 @@ npm start
 
 ## Contributing
 
-If you have suggestions for how cre8hub could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
+If you have suggestions for how to improve cre8hub, open an issue! We'd love any contributions.
 
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2018 James Waugh <jwaugh19@gmail.com> (https://www.cre8.xyz)
+[ISC](LICENSE) © 2018 James Waugh
+
+<jwaugh19@gmail.com> (https://www.cre8.xyz)
